@@ -1,4 +1,4 @@
-# translationHelpish
+# Cheat-sheet
 Generates cheat-sheets in word documents with words in two languages (that would be usefull if i still had languages to learn for school)
 
 This program takes input.txt file, where word list is created by the user, and converts it to a comfortable format to hold in the hand.
